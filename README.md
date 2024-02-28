@@ -13,7 +13,7 @@ pip install seo
 Installing from source:
 
 ```
-git clone https://github.com/ceb10n/seo.git
+git clone 
 cd seo
 pip install .
 ```
